@@ -1,0 +1,10 @@
+{
+    "apps" : [
+      {
+        "name"        : "TokenServer",
+        "script"      : "bin/www",
+        "node_args"   : "-r dotenv/config",
+        "log_date_format" : "YYYY-MM-DD HH:mm Z"
+      }
+    ]
+  }
